@@ -1,4 +1,4 @@
-# Mahad Abdullahi Mohamed Noor
+# Mahad A. Mohamed Noor
 
 Sociology student at Örebro University, focusing on qualitative methods, risk communication, and theories of social acceleration in contemporary Sweden.
 
