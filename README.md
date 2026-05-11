@@ -19,3 +19,5 @@ My work is guided by a commitment to clarity, systemic observation, and the synt
 ---
 
 *“Observe the system. Focus on leverage. Sharpen relentlessly.”*
+
+[Instagram](https://instagram.com/abdimannor) / [X (Twitter)](https://x.com/abdimannor) / [Contact for Inquiries](mailto:heyitsmahad@gmail.com)
