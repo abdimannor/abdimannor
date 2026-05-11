@@ -14,7 +14,8 @@ Currently operating outside the technology sector, using this environment for ve
 * **Knowledge Management:** Building a long-term personal knowledge base centered on societal trends and systemic shifts.
 
 ## Methodology
-My work is guided by a commitment to clarity, systemic observation, and the synthesis of academic rigor with practical application. I believe in the power of structured thinking to navigate the complexities of "Dunya" while maintaining a focus on long-term value.
+My work is guided by a commitment to clarity, systemic observation, and the synthesis of academic rigor with practical application. 
+I believe in the power of structured thinking to navigate the complexities of "Dunya" while maintaining a focus on long-term value.
 
 ---
 
