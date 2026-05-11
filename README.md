@@ -1,43 +1,21 @@
-## 👋 Hi, I'm Mahad Abdullahi
+# Mahad A. Mohamed Noor
 
-I'm a 19-year-old passionate about IT and entrepreneurship. I'm currently studying Information and Media Technology at NTI Gymnasiet in Helsingborg, and I aspire to propel myself to new pinnacles within the IT sector.
+Sociology student at Örebro University, focusing on qualitative methods, risk communication, and theories of social acceleration in contemporary Sweden.
 
-I'm proficient in Java, JavaScript, HTML5, the JavaScript DOM, Angular and CSS. I'm also an adept communicator and collaborator, and I'm always looking for new opportunities to learn and grow.
+Currently operating outside the technology sector, using this environment for versioned writing, research notes, and long-term knowledge work.
 
-## 👀 I'm interested in...
+## Core Focus & Interests
+* **Institutional Analysis:** Investigating the intersection of social structures and individual agency within Swedish institutions.
+* **Risk Communication:** Analyzing how information flows and is interpreted during periods of social and systemic acceleration.
+* **Qualitative Methodology:** Applying rigorous ethnographic and interview-based frameworks to decode complex social dynamics.
 
-* Tech
-* Entrepreneurship
-* Programming
-* Web development
-* Mobile development
-* Machine learning
-* Artificial intelligence
-* Data science
-* Open source software
-* Cross-cultural collaboration
+## Current Work
+* **Strategic Research:** Developing structured intelligence reports for private and public sector stakeholders.
+* **Knowledge Management:** Building a long-term personal knowledge base centered on societal trends and systemic shifts.
 
-## 🌱 I'm currently learning...
+## Methodology
+My work is guided by a commitment to clarity, systemic observation, and the synthesis of academic rigor with practical application. I believe in the power of structured thinking to navigate the complexities of "Dunya" while maintaining a focus on long-term value.
 
-* Python
-* C Sharp
-* PHP
+---
 
-## 💞️ I'm looking to collaborate on...
-
-* Open source software projects
-* IT startups
-* Web development projects
-* Mobile development projects
-* Machine learning and AI projects
-* Cross-cultural IT initiatives
-
-## 📫 How to reach me...
-
-* Email: heyitsmahad@gmail.com
-* GitHub: [heyitsmahad](https://github.com/heyitsmahad)
-* LinkedIn: [Mahad Abdullahi](https://www.linkedin.com/in/mahad-abdullahi-262b56228/)
-
-## ⚡ Fun fact
-
-I'm a social person who speaks five languages, including Swedish, English, Arabic, and Somali.
+*“Observe the system. Focus on leverage. Sharpen relentlessly.”*
