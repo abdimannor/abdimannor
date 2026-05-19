@@ -47,3 +47,8 @@ Second year of the Social Analysis programme at Örebro University. Ongoing cour
 ## Tech
 
 `HTML` · `CSS` · `PHP` · `Java` · `Python` · `Git` · `GitHub Actions` · `Adobe Illustrator`
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdimannor&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdimannor&layout=compact&hide_border=true" alt="Top languages" />
+</p>
