@@ -1,6 +1,6 @@
 # Mahad Abdullahi
 
-Second-year student of Social Analysis at Örebro University, with sociology as my main subject. My work centres on institutional analysis, governance, research methodology, and how formal systems shape social outcomes in practice. Alongside my studies, I build web projects and interfaces.
+Second-year student of Social Analysis at Örebro University, with sociology as my main subject. My work centres on institutional analysis, governance, research methodology, and how formal systems shape social outcomes in practice. Alongside my studies, I build web projects and interfaces — starting from static HTML and working outwards into multi-page sites, backend scripting, and progressive web apps.
 
 → **[mahadabdullahi.se](https://mahadabdullahi.se/)**
 
@@ -15,12 +15,12 @@ Second-year student of Social Analysis at Örebro University, with sociology as 
 
 ---
 
-## Tech
+## Currently
 
-`HTML` · `CSS` · `PHP` · `Java` · `Python` · `Git` · `GitHub Actions` · `Adobe Illustrator`
+Building **[HeartLux](https://abdimannor.github.io/heartlux/)** — a full PWA with CI/CD, service worker, and SEO. Second year of the Social Analysis programme at Örebro University.
 
 ---
 
-## Contact
+## Tech
 
-[LinkedIn](https://www.linkedin.com/in/mahad-a-mohamed-noor-262b56228)
+`HTML` · `CSS` · `PHP` · `Java` · `Python` · `Git` · `GitHub Actions` · `Adobe Illustrator`
