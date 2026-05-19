@@ -1,10 +1,10 @@
 # Hey, I'm Mahad 👋
 
-Social Analysis student at Örebro University — studying how formal institutions shape social outcomes, and building things on the web on the side.
+Social Analysis student at [Örebro University](https://www.oru.se/english/) — studying how formal institutions shape social outcomes, and building things on the web on the side.
 
 *Sociology asks why systems work the way they do. Code is how you build them differently.*
 
-🌐 **[mahadabdullahi.se](https://mahadabdullahi.se/)**
+🌐 Get to know me better at **[mahadabdullahi.se](https://mahadabdullahi.se/)**
 
 ---
 
