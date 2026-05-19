@@ -8,8 +8,12 @@ Studying how institutions work — and building things on the web on the side.
 ---
 
 🎓 Sociology · governance · research methodology  
-💻 HTML · CSS · PHP · Java · Python  
+💻 Web development · CI/CD · progressive web apps  
 📍 Örebro, Sweden  
+
+---
+
+<img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/html.svg" width="32"/>  <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/css.svg" width="32"/>  <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/php.svg" width="42"/>  <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/java.svg" width="32"/>  <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/python2.png" height="32"/>  <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/git.svg" width="32"/>
 
 ---
 
