@@ -1,8 +1,8 @@
-# Sociology asks. Code builds.
+# Sociology, code, and the space between systems
 
-Social Analysis student at [Örebro University](https://www.oru.se/english/) — interested in institutions, governance, research methods, and small web projects that turn ideas into something visible.
+Social Analysis student at [Örebro University](https://www.oru.se/english/) exploring institutions, governance, research methods, and small web projects that make ideas easier to see, test, and share.
 
-My site: **[mahadabdullahi.se](https://mahadabdullahi.se/)**
+For selected projects and a clearer picture of my work, visit **[mahadabdullahi.se](https://mahadabdullahi.se/)**
 
 ---
 
