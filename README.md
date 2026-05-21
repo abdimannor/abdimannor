@@ -1,13 +1,13 @@
-# Hey, I'm Mahad 👋
+# Sociology, code, and systems
 
-Social Analysis student at [Örebro University](https://www.oru.se/english/) — studying how formal institutions shape social outcomes, and building things on the web on the side.
+Social Analysis student at [Örebro University](https://www.oru.se/english/), with an interest in institutions, governance, research methods, and web projects.
 
-*Sociology asks why systems work the way they do. Code is how you build them differently.*
+Portfolio: [mahadabdullahi.se](https://mahadabdullahi.se/)
 
-🌐 Get to know me better at **[mahadabdullahi.se](https://mahadabdullahi.se/)**
+## Focus
 
----
+Institutional analysis · governance · research methodology · web development
 
-🎓 Institutional analysis · governance · research methodology
+## Toolbox
 
-<img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/html.svg" width="32"/>  <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/css.svg" width="32"/>  <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/php.svg" width="42"/>  <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/java.svg" width="32"/>  <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/python2.png" height="32"/>  <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/git.svg" width="32"/>
+<img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/html.svg" width="32" alt="HTML"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/css.svg" width="32" alt="CSS"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/php.svg" width="42" alt="PHP"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/java.svg" width="32" alt="Java"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/python2.png" height="32" alt="Python"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/git.svg" width="32" alt="Git"/>
