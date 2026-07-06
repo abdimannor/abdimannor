@@ -1,8 +1,8 @@
 # Sociology, code, and the space between systems
 
-Social Analysis student at [Örebro University](https://www.oru.se/english/) exploring institutions, governance, research methods, and small web projects that make ideas easier to see, test, and share.
+Social Analysis student exploring institutions, governance, research methods, and small web projects that make ideas easier to see, test, and share.
 
-For selected projects and a clearer picture of my work, visit **[mahadabdullahi.se](https://mahadabdullahi.se/)**
+For selected projects and a clearer picture of my work, visit **[manuur.com](https://manuur.com/)**
 
 ---
 
