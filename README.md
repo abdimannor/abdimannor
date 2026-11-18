@@ -25,6 +25,5 @@ A one-page piece on poetry and boxing, and what the two disciplines share.
 
 ---
 
-Institutional analysis · governance · research methodology · web experiments
-
+Institutional analysis · governance · research methodology · web experiments  
 Working in HTML, CSS, JavaScript, PHP, Java, Python and Git.
