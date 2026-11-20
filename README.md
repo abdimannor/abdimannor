@@ -6,24 +6,6 @@ For selected projects and a clearer picture of my work, visit **[manuur.com](htt
 
 ---
 
-## Selected work
+Institutional analysis · governance · research methodology · web experiments
 
-**[Public Decision Risk Lens](https://github.com/abdimannor/public-decision-risk-lens)**
-A human-supervised concept for reviewing institutional risk in public-sector decision documents before automated or AI-supported processes are introduced. Every flag points back to a passage, and the decision stays with a person who can be questioned.
-
-**[Youthwashing](https://abdimannor.github.io/youthwashing/)**
-A small Swedish resource on organisations that borrow youth culture for their image without giving young people real influence, with a checklist for telling symbolic participation from the real thing.
-
-**[Web Pioneers](https://abdimannor.github.io/web-pioneers/)**
-An editorial site on the people and protocols behind the internet: Tim Berners-Lee, Vint Cerf and the rise of search.
-
-**[Heartlux](https://abdimannor.github.io/heartlux/)**
-A front-end concept for a dating and social discovery app, built without frameworks, bilingual in Swedish and English, running entirely in the browser.
-
-**[Two Passions](https://abdimannor.github.io/two-passions/)**
-A one-page piece on poetry and boxing, and what the two disciplines share.
-
----
-
-Institutional analysis · governance · research methodology · web experiments  
-Working in HTML, CSS, JavaScript, PHP, Java, Python and Git.
+<img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/html.svg" width="32" alt="HTML"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/css.svg" width="32" alt="CSS"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/php.svg" width="42" alt="PHP"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/java.svg" width="32" alt="Java"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/python2.png" height="32" alt="Python"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/git.svg" width="32" alt="Git"/>
