@@ -32,7 +32,7 @@ Institutional analysis · governance · research methodology · web experiments
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://abdimannor.github.io/web-pioneers/"><img src="https://abdimannor.github.io/web-pioneers/tim.jpg" alt="Web Pioneers" width="100%"></a>
+<a href="https://abdimannor.github.io/web-pioneers/"><img src="https://abdimannor.github.io/web-pioneers/og.png" alt="Web Pioneers" width="100%"></a>
 <br><b><a href="https://abdimannor.github.io/web-pioneers/">Web Pioneers</a></b>
 <br>TCP/IP, the web and search, told through Cerf and Kahn, Berners-Lee and Google, with every date sourced.
 <br><sub><a href="https://github.com/abdimannor/web-pioneers">code</a></sub>
