@@ -6,7 +6,13 @@ For selected projects and a clearer picture of my work, visit **[manuur.com](htt
 
 ---
 
-## Selected work
+Institutional analysis · governance · research methodology · web experiments
+
+<img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/html.svg" width="32" alt="HTML"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/css.svg" width="32" alt="CSS"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/php.svg" width="42" alt="PHP"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/java.svg" width="32" alt="Java"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/python2.png" height="32" alt="Python"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/git.svg" width="32" alt="Git"/>
+
+---
+
+### Selected work
 
 - [Public Decision Risk Lens](https://abdimannor.github.io/public-decision-risk-lens/prototype/): a browser prototype that flags passages in public-sector decision documents for human review (Building AI course project)
 - [Youthwashing](https://abdimannor.github.io/youthwashing/): questions, a self-assessment and a workshop mode for telling real youth participation from symbolic presence
@@ -16,7 +22,3 @@ For selected projects and a clearer picture of my work, visit **[manuur.com](htt
 - [Two Passions](https://abdimannor.github.io/two-passions/): poetry and boxing on one page, scrolled in three rounds with an optional synthesised bell
 - [Cartoon Set](https://abdimannor.github.io/cartoon-set/): three Illustrator characters in a gallery with a vector lightbox and palette remix
 - A small web course built from my first coursework pages: [Hello Web](https://hello-web-kappa.vercel.app/), [Tech World](https://tech-world-zeta.vercel.app/), [Link Lab](https://link-lab-flax.vercel.app/), [Dress Code](https://dress-code-bay.vercel.app/)
-
-Institutional analysis · governance · research methodology · web experiments
-
-<img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/html.svg" width="32" alt="HTML"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/css.svg" width="32" alt="CSS"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/php.svg" width="42" alt="PHP"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/java.svg" width="32" alt="Java"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/python2.png" height="32" alt="Python"/> <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/git.svg" width="32" alt="Git"/>
